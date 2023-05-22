@@ -33,7 +33,7 @@ const AuthModals = () => {
 
     const demoUserLogin = async (e) => {
       e.preventDefault();
-      const data = await dispatch(login('demo@aa.io', 'demopassword'));
+      const data = await dispatch(login('demo@aa.io', 'password'));
 
       if (data) {
         setErrors(data);
