@@ -5,22 +5,22 @@ def seed_product_images():
     # SWITCHES
     cherry_red_switch_image1 = ProductImage(
         product_id=1,
-        image_url="https://qwerty-steve-bucket.s3.amazonaws.com/product_images/cherry-red-switches-1.jpeg",
+        image_url="https://qwerty-steve-bucket.s3.amazonaws.com/product_images/cherry-red-switches-1.jpg",
     )
 
     cherry_brown_switch_image1 = ProductImage(
         product_id=2,
-        image_url="https://qwerty-steve-bucket.s3.amazonaws.com/product_images/cherry-brown-switches-1.jpeg",
+        image_url="https://qwerty-steve-bucket.s3.amazonaws.com/product_images/cherry-brown-switches-1.jpg",
     )
 
     cherry_blue_switch_image1 = ProductImage(
         product_id=3,
-        image_url="https://qwerty-steve-bucket.s3.amazonaws.com/product_images/cherry-blue-switches-1.jpeg",
+        image_url="https://qwerty-steve-bucket.s3.amazonaws.com/product_images/cherry-blue-switches-1.jpg",
     )
 
     cherry_black_switch_image1 = ProductImage(
         product_id=4,
-        image_url="https://qwerty-steve-bucket.s3.amazonaws.com/product_images/cherry-black-switches-1.jpeg",
+        image_url="https://qwerty-steve-bucket.s3.amazonaws.com/product_images/cherry-black-switches-1.jpg",
     )
 
     cherry_silver_switch_image1 = ProductImage(
