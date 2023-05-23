@@ -71,7 +71,7 @@ const LandingPage = () => {
             <div className="category-list-item" onClick={categoryAClick}>
               <img
                 className="category-image"
-                src="https://qwerty-steve-bucket.s3.amazonaws.com/product_images/cherry-red-switches-1.jpeg"
+                src="https://qwerty-steve-bucket.s3.amazonaws.com/product_images/cherry-red-switches-1.jpg"
                 alt="keyboardSwitchCategoryImage"
               />
               <li className="landing-page-links">
