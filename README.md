@@ -1,8 +1,8 @@
 # Qwerty
-[Qwerty] (https://qwerty2022.herokuapp.com/), a full-stack application inspired by Etsy, is an e-commerce platform for keyboard enthusiasts to buy and sell mechanical keyboard components.
+[Qwerty] (https://shop-qwerty.herokuapp.com/), a full-stack application inspired by Etsy, is an e-commerce platform for keyboard enthusiasts to buy and sell mechanical keyboard components.
 
 ## Live Link
-[Qwerty] (https://qwerty2022.herokuapp.com/)
+[Qwerty] (https://shop-qwerty.herokuapp.com/)
 
 ## Get Started
 **Prerequisites**
