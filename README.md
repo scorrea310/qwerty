@@ -1,9 +1,6 @@
 # Qwerty
 Qwerty, a full-stack application inspired by Etsy, is an e-commerce platform for keyboard enthusiasts to buy and sell mechanical keyboard components.
 
-## Live Link
-https://shop-qwerty.herokuapp.com/
-
 ## Get Started
 **Prerequisites**
 - NPM
